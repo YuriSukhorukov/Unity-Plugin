@@ -3,12 +3,12 @@
 #### VERSION 6.5.2
 * Integrated iOS Publisher SDK v6.5.2
 * Integrated Android Publisher SDK v6.5.2
-* Integrated Windows Publisher SDK v6.5.1
+* Integrated Windows Publisher SDK v6.5.1 (Early Access)
 
 #### VERSION 6.5.1
 * Integrated iOS Publisher SDK v6.5.1
 * Integrated Android Publisher SDK v6.5.1
-* Integrated Windows Publisher SDK v6.5.1
+* Integrated Windows Publisher SDK v6.5.1 (Early Access)
 
 #### VERSION 6.4.4
 * Integrated iOS Publisher SDK v6.4.6
